@@ -28,6 +28,9 @@ from .exceptions import (
 # NEW: Import utilities (optional, but good to have)
 from . import utils
 
+# Version
+__version__ = "1.0.0"
+
 # Define what gets imported with "from leaktorch import *"
 __all__ = [
     # Core classes
