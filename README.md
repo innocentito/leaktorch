@@ -158,8 +158,8 @@ leaktorch/
 │   ├── finding.py           # Finding data structure
 │   ├── git_handler.py       # Git operations
 │   ├── reporters.py         # Output formatters
-│   └── utils.py             # Helper functions
-├── cli.py                   # CLI entry point
+│   ├── utils.py             # Helper functions
+│   └──cli.py                # CLI entry point
 ├── setup.py                 # Package setup
 ├── requirements.txt         # Dependencies
 └── README.md               # This file
